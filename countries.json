@@ -1,0 +1,12 @@
+[
+    {"name": "Україна", "area": 603700, "population": 38, "continent": "Європа"},
+    {"name": "Єгипет", "area": 1002450, "population": 105, "continent": "Африка"},
+    {"name": "Китай", "area": 9597000, "population": 1400, "continent": "Азія"},
+    {"name": "Франція", "area": 551695, "population": 67, "continent": "Європа"},
+    {"name": "Кенія", "area": 580367, "population": 54, "continent": "Африка"},
+    {"name": "Японія", "area": 377975, "population": 126, "continent": "Азія"},
+    {"name": "Бразилія", "area": 8515767, "population": 213, "continent": "Південна Америка"},
+    {"name": "Канада", "area": 9984670, "population": 38, "continent": "Північна Америка"},
+    {"name": "Іспанія", "area": 505990, "population": 47, "continent": "Європа"},
+    {"name": "Індія", "area": 3287263, "population": 1390, "continent": "Азія"}
+]
